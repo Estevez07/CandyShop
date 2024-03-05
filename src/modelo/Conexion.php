@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL);
 
-class ConexionDB
+class AccesoDatos
 {
 
     private $conn = null;
